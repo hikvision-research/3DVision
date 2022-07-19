@@ -8,7 +8,7 @@ To date, 3DVision contains the following algorithms:
 
 ### Point Cloud Completion
 
-[FBNet](./PointCompletion/FBNet)
+[FBNet: Feedback Network for Point Cloud Completion. ECCV, 2022. Oral](./PointCompletion/FBNet)
 
 ## License
 
