@@ -23,6 +23,8 @@ sh run.sh
 
 The pretrain model on MVP (2048) dataset is available at [FBNet_pre-trained](./model), which get 5.05 CD-T error on MVP testset.
 
+Training code will be released soon.
+
 ## Citation
 
 If you use FBNet in your research or wish to refer to the results published in the paper, please consider citing out paper.
