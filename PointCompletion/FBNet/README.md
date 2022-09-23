@@ -27,7 +27,7 @@ Training code will be released soon.
 
 ## Citation
 
-If you use FBNet in your research or wish to refer to the results published in the paper, please consider citing out paper.
+If you use FBNet in your research or wish to refer to the results published in the paper, please consider citing our paper.
 
 ```BibTeX
 @inproceedings{Yan2022FBNet,
