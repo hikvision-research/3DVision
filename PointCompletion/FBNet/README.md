@@ -1,6 +1,6 @@
 # FBNet: Feedback Network for Point Cloud Completion
 
-This repository contains the source code for the paper [FBNet: Feedback Network for Point Cloud Completion. ECCV, 2022. Oral]().
+This repository contains the source code for the paper [FBNet: Feedback Network for Point Cloud Completion. ECCV, 2022. Oral](https://arxiv.org/abs/2210.03974).
 
 ## Preparation
 
