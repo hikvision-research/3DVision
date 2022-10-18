@@ -11,7 +11,7 @@ We use two public datasets, including PU1K ([Paper](https://arxiv.org/abs/1912.0
 
 ## Usage
 
-The code is tested under Pytorch 1.6.0 and Python 3.6 on Ubuntu 16.04. Pretrained weights are available in ` ./model/pretrained `. 
+The code is tested under Pytorch 1.6.0 and Python 3.6 on Ubuntu 16.04. Pretrained weights are available in ` ./model/release `. 
 
 1. Install python denpendencies.
 
