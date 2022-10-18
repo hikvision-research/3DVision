@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the official Pytorch implementation of our paper "Point Cloud Upsampling via Cascaded Refinement Network" ([Paper]()) in Asian Conference on Computer Vision (ACCV) 2022. 
+This is the official Pytorch implementation of our paper "Point Cloud Upsampling via Cascaded Refinement Network" ([Paper](https://arxiv.org/pdf/2210.03942.pdf)) in Asian Conference on Computer Vision (ACCV) 2022. 
 
 ## Data Preparation
 
