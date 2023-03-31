@@ -13,6 +13,9 @@ To date, 3DVision contains the following algorithms:
 ### Point Cloud Upsampling
 [Point Cloud Upsampling via Cascaded Refinement Network. ACCV, 2022. Oral](./PointUpsampling/PUCRN)
 
+### Point Cloud Normal Estimation
+[Rethinking the Approximation Error in 3D Surface Fitting for Point Cloud Normal Estimation. CVPR, 2023](./Normal-Estimation)
+
 ## License
 
 This project is released under the [Apache 2.0 license](./LICENSE). Other codes from open source repository follows the original distributive licenses.
