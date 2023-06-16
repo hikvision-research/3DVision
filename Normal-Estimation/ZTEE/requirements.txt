@@ -1,0 +1,11 @@
+torch==1.6.0
+torchvision==0.7.0
+numpy==1.16.2
+matplotlib==3.0.2
+scikit-learn==0.24.2
+scipy==1.1.0
+urllib3==1.22
+tensorboardX==2.5.1
+munch==3.0.0
+h5py==3.1.0
+provider==0.11.0
