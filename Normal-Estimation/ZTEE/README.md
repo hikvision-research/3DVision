@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 
 
-2. Compile pyTorch extensions.
+2. Compile pytorch extensions.
 
 ```shell
 cd pointnet2_ops_lib
